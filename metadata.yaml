@@ -1,0 +1,28 @@
+_repo: The-Coming-of-the-King_20367
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Babcock, Bernie
+    alias: Babcock, Bernie Smade
+    birthdate: 1868
+    deathdate: 1962
+    gutenberg_agent_id: '9252'
+    url: http://www.gutenberg.org/2009/agents/9252
+description: ''
+gutenberg_issued: '2007-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Jesus Christ -- Fiction'
+- !lcsh 'Christian fiction'
+title: The Coming of the King
+url: http://www.gutenberg.org/ebooks/20367
